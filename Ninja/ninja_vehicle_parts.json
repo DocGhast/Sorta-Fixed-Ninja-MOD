@@ -3,7 +3,7 @@
     "id": "ninja_shuriken_smg",
     "type": "GUN",
     "symbol": "(",
-    "color": "dark_gray",
+    "color": "light_gray",
     "name": "Shuriken thrower (smg)",
     "description": "It is a device which modified the coil gun. You can shoot shuriken continuously. To use it should be installed in the vehicle.",
     "price": 110000,
